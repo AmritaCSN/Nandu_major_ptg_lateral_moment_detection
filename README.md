@@ -30,7 +30,7 @@ The repository structure separates datasets, core logic, data preparation, exper
 ## Architecture Diagram
 ![alt text](architecture_high_level_view.png)
 
-## Flochart
+## Flowchart
 ![alt text](Flowchart.png)
 ## Repository Structure
 
